@@ -10,8 +10,11 @@ const CarouselsBanner = () => {
     { src: "/img3.jpg", alt: "Image 3" },
     { src: "/img4.jpg", alt: "Image 4" },
     { src: "/img5.png", alt: "Image 5" },
-
-    { src: "/img11.jpg", alt: "Image 11" },
+    { src: "/img12.jpg", alt: "Image 12" },
+      { src: "/img13.jpg", alt: "Image 13" },
+      { src: "/img14.jpg", alt: "Image 14" },
+      { src: "/img15.jpg", alt: "Image 15" },
+      { src: "/img16.jpg", alt: "Image 16" },
 
     // Add more images here
   ]);
