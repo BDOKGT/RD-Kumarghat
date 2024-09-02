@@ -5,7 +5,7 @@ const DistrictOfficers = () => {
   const officers = [
     {
       profilePicture: "/images/profile1.png",
-      name: "Dr. SUDIP BHOWMIK, TCS Gr-II",
+      name: "Dr. Sudip Bhowmik, TCS Gr-II",
       designation: "Block Development Officer",
       email: "kgt[dot]nrega[at]gmail[dot]com",
       phone: "8974306046",
@@ -22,7 +22,7 @@ const DistrictOfficers = () => {
       roomNo: null,
     },
     {
-      profilePicture: "/images/profile3.jpg",
+      profilePicture: "/images/profile4.jpg",
       name: "Shri Dipankar Chakraborty, ",
       designation: "Panchyat Officer",
       email: "kgt[dot]nrega[at]gmail[dot]com",
