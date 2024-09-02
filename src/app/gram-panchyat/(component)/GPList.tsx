@@ -10,7 +10,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "	Ambedkar Nagar",
     gpLgCode: 104024,
-    pradhan: "abc",
+    pradhan: "Paresh Das",
   },
   {
     siNo: 2,
@@ -20,7 +20,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Betcherra",
     gpLgCode: 104025,
-    pradhan: "abc",
+    pradhan: "Radharani Dhar",
   },
   {
     siNo: 3,
@@ -30,7 +30,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Dudpur",
     gpLgCode: 104026,
-    pradhan: "abc",
+    pradhan: "Sima Das Majumder",
   },
   {
     siNo: 4,
@@ -38,9 +38,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "East Kanchanbari",
+    gramPanchayat: "Purba Kanchanbari",
     gpLgCode: 104028,
-    pradhan: "abc",
+    pradhan: "Swapna Paul Deb",
   },
   {
     siNo: 5,
@@ -48,9 +48,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "East Ratacherra",
+    gramPanchayat: "Purba Ratacherra",
     gpLgCode: 104027,
-    pradhan: "abc",
+    pradhan: "Manika Malakar",
   },
   {
     siNo: 6,
@@ -60,7 +60,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Fatikroy",
     gpLgCode: 104029,
-    pradhan: "abc",
+    pradhan: "Sumita Datta Kar",
   },
   {
     siNo: 7,
@@ -70,7 +70,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Gakulnagar",
     gpLgCode: 104030,
-    pradhan: "abc",
+    pradhan: "Bina Das",
   },
   {
     siNo: 8,
@@ -80,7 +80,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Ganganagar",
     gpLgCode: 104031,
-    pradhan: "abc",
+    pradhan: "Jogendra Debbarma",
   },
   {
     siNo: 9,
@@ -90,7 +90,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Jagannathpur",
     gpLgCode: 104032,
-    pradhan: "abc",
+    pradhan: "Dayananda Das",
   },
   {
     siNo: 10,
@@ -100,7 +100,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Kanchanbari",
     gpLgCode: 104033,
-    pradhan: "abc",
+    pradhan: "Sheli Bhattacharjee(Chowdhury)",
   },
   {
     siNo: 11,
@@ -110,7 +110,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Krishnanagar",
     gpLgCode: 104034,
-    pradhan: "abc",
+    pradhan: "Sikha Paul",
   },
   {
     siNo: 12,
@@ -120,7 +120,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Laljuri",
     gpLgCode: 104035,
-    pradhan: "abc",
+    pradhan: "Babul Das",
   },
   {
     siNo: 13,
@@ -130,7 +130,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Masauli",
     gpLgCode: 104036,
-    pradhan: "abc",
+    pradhan: "Sankar Deb",
   },
   {
     siNo: 14,
@@ -140,7 +140,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Radhanagar",
     gpLgCode: 104037,
-    pradhan: "abc",
+    pradhan: "Subrata Debnath",
   },
   {
     siNo: 15,
@@ -150,7 +150,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Rajnagar",
     gpLgCode: 261229,
-    pradhan: "abc",
+    pradhan: "Pritam Biswas",
   },
   {
     siNo: 16,
@@ -160,7 +160,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Ratiabari",
     gpLgCode: 261231,
-    pradhan: "abc",
+    pradhan: "Jayanti Das",
   },
   {
     siNo: 17,
@@ -170,7 +170,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Saidarpar",
     gpLgCode: 104038,
-    pradhan: "abc",
+    pradhan: "--",
   },
   {
     siNo: 18,
@@ -180,7 +180,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Sonaimuri",
     gpLgCode: 104039,
-    pradhan: "abc",
+    pradhan: "Mira Malakar",
   },
   {
     siNo: 19,
@@ -190,7 +190,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Sukanta Nagar",
     gpLgCode: 104040,
-    pradhan: "abc",
+    pradhan: "Mina Rani Das",
   },
   {
     siNo: 20,
@@ -200,7 +200,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Taraninagar",
     gpLgCode: 104041,
-    pradhan: "abc",
+    pradhan: "Rajib Deb",
   },
   {
     siNo: 21,
@@ -208,9 +208,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "Ujandudpur",
+    gramPanchayat: "Ujan Dudpur",
     gpLgCode: 104042,
-    pradhan: "abc",
+    pradhan: "Sankha Jyoti Das",
   },
   {
     siNo: 22,
@@ -220,7 +220,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "Vidyasagar",
     gpLgCode: 261228,
-    pradhan: "abc",
+    pradhan: "Kanu Malakar",
   },
   {
     siNo: 23,
@@ -228,9 +228,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "West Kanchanbari",
+    gramPanchayat: "Paschim Kanchanbari",
     gpLgCode: 261230,
-    pradhan: "abc",
+    pradhan: "Jayanti Das",
   },
   {
     siNo: 24,
@@ -240,7 +240,7 @@ const data = [
     blockLgCode: 2888,
     gramPanchayat: "West Masauli",
     gpLgCode: 104043,
-    pradhan: "abc",
+    pradhan: "Subrata Ghosh",
   },
   {
     siNo: 25,
@@ -248,9 +248,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "West Ratacherra",
+    gramPanchayat: "Paschim Ratacherra",
     gpLgCode: 104044,
-    pradhan: "abc",
+    pradhan: "Shefali Sen(Dey)",
   },
   {
     siNo: 26,
@@ -258,9 +258,9 @@ const data = [
     districtLgCode: 240,
     block: "Kumarghat",
     blockLgCode: 2888,
-    gramPanchayat: "XYZ",
+    gramPanchayat: "Sripur",
     gpLgCode: 123456,
-    pradhan: "abc",
+    pradhan: "Malasree Sinha",
   },
 ];
 
