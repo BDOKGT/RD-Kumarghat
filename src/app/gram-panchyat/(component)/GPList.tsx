@@ -259,7 +259,7 @@ const data = [
     block: "Kumarghat",
     blockLgCode: 2888,
     gramPanchayat: "Sripur",
-    gpLgCode: 123456,
+    gpLgCode: --,
     pradhan: "Malasree Sinha",
   },
 ];
