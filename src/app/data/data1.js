@@ -9,7 +9,7 @@ const GramPanchyat = [
       close: "-",
       rackNo:"A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1iaAGHw1--Xrt7Q6gr-WIBM8_z1vM2s-r?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/18TQ_4vnVqt1usCl97oqiFkqsLixY2kX0?usp=drive_link",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1Sh9codGdoqiSF6sPItPRptKMmMWbec4-?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1DQEhq4Jizh97tbUietowaDcjD8MfQJR-?usp=drive_link",
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1YqEVVtYuLUPuJ1RDri_40O6IyWK3Scc1?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/13l3-zniZPcdAnkbW3DhU74THXqZw45VR?usp=drive_link",
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://docs.google.com/spreadsheets/d/11Dsls-_fghV_QkHKUIBLC-KDWoNsZRSrsB_RHZq2aBk/edit?gid=0#gid=0",
+      link: "https://drive.google.com/drive/folders/1loWT2JWwF-txtcj39VFdBfimIoRv6qjo?usp=drive_link",
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "C3",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/file/d/1BSpqyoryKKQ2Y856rAH1fvowMG8QCZim/view",
+      link: "https://drive.google.com/drive/folders/1ALMcKu-s6RhUQWIQ56fUwQTZyhCvW18Z?usp=drive_link",
     },
     {
       id: 6,
@@ -69,7 +69,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "D4",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1ooJr_tKMHxHZ57d5NEODqMkm4z5TScanned FilesjK?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1kBry9rhASW1Awo0g-PQDNg24GmwIrega?usp=drive_link",
     },
     {
       id: 7,
@@ -81,7 +81,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "E5",
       remarks: "Scanned Files",
-      link: "https://docs.google.com/spreadsheets/d/11Dsls-_fghV_QkHKUIBLC-KDWoNsZRSrsB_RHZq2aBk/edit?gid=0#gid=0",
+      link: "https://drive.google.com/drive/folders/1Tx9WXkqKT91N9-Q4w3Y_mk1urVQzmA9f?usp=drive_link",
     },
     {
       id: 8,
@@ -93,7 +93,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "F6",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/file/d/1BSpqyoryKKQ2Y856rAH1fvowMG8QCZim/view",
+      link: "https://drive.google.com/drive/folders/1QlK5pvejrYtqJE70Soipf_U1y6f1Hbs3?usp=drive_link",
     },
     {
       id: 9,
@@ -105,7 +105,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/188JDW2ETtiMsoBKHw4EE-UInysnz91ek?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1PQluEKRM7mNAloLF9qErF_URR-A3zu0l?usp=drive_link",
     },
     {
       id: 10,
@@ -117,7 +117,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "H8",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1qU80TJ3BFSrnioXgNVpuIUJAIccYYBSv?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1hmBADMil2avoXtVCJRwTXcKd98q9NbEK?usp=drive_link",
     },
     {
       id: 11,
@@ -129,7 +129,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "I9",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1X0whtKqDfFY9tEKONTxCeMGzPeRR5fDf?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1RK9inNOLAMpEiZj7WY6D0oo5mIym3ea4?usp=drive_link",
     },
     {
       id: 12,
@@ -141,7 +141,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "J10",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/16k8ZW-B8Em-6vF7PowV3IChhD5cgkd_j?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1f4RsnnizHiDjz9HhFQ83osUPzjQTdatP?usp=drive_link",
     },
     {
       id: 13,
@@ -153,7 +153,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "K11",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1WdKxUpoVuUsmprXaYpyQ95MmnLEhtvS8?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1cBMJmbZt5o3IosOvoVlFxNlBpBJxLJdW?usp=drive_link",
     },
     {
       id: 15,
@@ -165,7 +165,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "K11",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1Ol7CL_AnDPOOXpf6r6laTttTrePJWWPP?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1mqd6A3NdnwzX_VXgaxuf3dSlGAmxpP2t?usp=drive_link",
     },
     {
       id: 16,
@@ -177,7 +177,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "L12",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1fnDPhrqudFAutIwceNhIfRVuwIk13jt3?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1uQrPWc3VHgHM4sk6R4Gn6fGyvTX-UGij?usp=drive_link",
     },
     {
       id: 17,
@@ -189,7 +189,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1xCF-mcpl-C0Zx_e47MCFgtpd42MZCBz9?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1ydQNu_s4eVebIPk4kd2X1BJSnLb6g7j9?usp=drive_link",
     },
     {
       id: 18,
@@ -201,7 +201,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1G-vFmuRibG4raTaKE7Q9O1Pb1GRpIxrN?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1v30GfYvKqOZKi6C0j-tv069eCQ5ujW3O?usp=drive_link",
     },
     {
       id: 19,
@@ -213,7 +213,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1JTWa6ZK8Ilhcd0C5Ic-6yd07WuZYHZLC?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/198ZJQvOf2JOVFnPSMKaKdGIHLCS8ZfZS?usp=drive_link",
     },
     {
       id: 20,
@@ -225,7 +225,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1nm3mkINDrS9g7EUeeEKmhEGsYjdOE8sK?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1VzD09wWjzwjK08RqG_xWYAMx8PpPs_3y?usp=drive_link",
     },
     {
       id: 21,
@@ -237,7 +237,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1X8ijQA48FK1yitOsnsXakivPj8cOYXut?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1asGJ2rN5HdQt3S-ibCOEYG-QRBeCgpch?usp=drive_link",
     },
     {
       id: 22,
@@ -249,7 +249,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1qrhIcEmsqYCyvc9PTkIctuhbUDrnRKDa?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1NZvpyUKc7MNr2VTdRxfnIwUMzqTkmuES?usp=drive_link",
     },
     {
       id: 23,
@@ -261,7 +261,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/file/d/1BSpqyoryKKQ2Y856rAH1fvowMG8QCZim/view",
+      link: "https://drive.google.com/drive/folders/107ifHS-tcwQY1tUYkxEk8mfSxrn_k_Ya?usp=drive_link",
     },
     {
       id: 24,
@@ -273,7 +273,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "C3",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1PVY5UtBtLQA3oJBDIPLRVyXUknTQpQL2?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1TFwOdKqLq-JDRt6IJvU_IRuQlRyRnPnA?usp=drive_link",
     },
     {
       id: 25,
@@ -285,7 +285,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "C3",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1yWCFcTwh9uT0Ow9DAcbWcqWQxO19u3k0?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1h_oyTjiL19rLNLht6c6Mq2g4-PYd82vM?usp=drive_link",
     },
     {
       id: 26,
@@ -297,7 +297,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "D4",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/11DJn_yTe4-i_JauH2_rOt6WMT7_4RpLt?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1YT6UKri9ri2Raz2SP2aZB4XQ2HbxCMpX?usp=drive_link",
     },
     {
       id: 27,
@@ -309,7 +309,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "D4",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1nXrgDbKwqJJOz9QPxZWtAZXFYLCwbYy9?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1TaHmaSQn5iaaJdRu-BIDLyB8ZfDXgG8w?usp=drive_link",
     },
     {
       id: 28,
@@ -321,7 +321,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "E5",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1GWt2HA-7PI0ZcbSJaF6Ew0UW2mLEepcU?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1fX2o_pbCTV5gTZ2ytanjsugZPuugB16w?usp=drive_link",
     },
     {
       id: 29,
@@ -333,7 +333,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "F6",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1mNqRQcVBPy5M9HJn4WM8QRQ36e9jwuXm?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/14iGANiZjPks8Pk-C20jur9_5EYgTkB9C?usp=drive_link",
     },
     {
       id: 30,
@@ -345,7 +345,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "http://example.com/file1",
+      link: "https://drive.google.com/drive/folders/1Bvav-MyvzzKbpSHZATnwkRKXYn-Csgu5?usp=drive_link",
     },
     {
       id: 31,
@@ -357,7 +357,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "http://example.com/file1",
+      link: "https://drive.google.com/drive/folders/1zbhZvhhMGnaPzy8-CGLSrx0qEF-xnUjN?usp=drive_link",
     },
     {
       id: 32,
@@ -369,7 +369,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "H8",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1CwJWjkeCyBm18YWFM3cMa_YKZ0WuTyVW?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1gUvGbL4yffg1tggH_qn2cHK0vFcKJ9UD?usp=drive_link",
     },
     {
       id: 33,
@@ -381,7 +381,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "H8",
       remarks: "Scanned Files",
-      link: "http://example.com/file1",
+      link: "https://drive.google.com/drive/folders/1JkQwLwwYgkMRkuWXiwM1ctzzjDzeC_nm?usp=drive_link",
     },
     {
       id: 34,
@@ -393,7 +393,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "I9",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1icU_q8NHAEg3kp43Ng_cmW_xD8S2pYkS?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1ds_6S7CKi6Z28rOPb0ruwYjgL2mEq9zK?usp=drive_link",
     },
     {
       id: 35,
@@ -405,7 +405,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "J10",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1L29uKRG6TeabMdn1yQ2FdxACIML8NGmp?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1fmJL19KJCCpp4tY1bDecek9QLFXmWKfW?usp=drive_link",
     },
     {
       id: 36,
@@ -417,7 +417,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "J10",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1m8OmvMP1cAeYMXaaJjy34pyOghoq9pvo?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1jYmwFjwhGuG_b0XXis3LW9JIgRACCQa5?usp=drive_link",
     },
     {
       id: 37,
@@ -429,7 +429,7 @@ const GramPanchyat = [
       close: "-",
       rackNo:"J10",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1tkZqnUqiQPWVXYW33IkF7FXuLfVhs4bU?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1tyfa7TdCMp6jPSwVQ3UywvR0Uh7E2hlM?usp=drive_link",
     },
     {
       id: 38,
@@ -441,7 +441,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "K11",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1l41L5KsPXIxmmfDvS020y465MfSZczh6?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1vx3Kszrqt4qJO-jNfr0gciSDeQgesQ_3?usp=drive_link",
     },
     {
       id: 39,
@@ -453,7 +453,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "L12",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1fJ5I5zRitR7vXspdJM4rgaYPonPLvU_1?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1-YWzrz9bR3d2PU_XN7cMzA6mdXY4_oLc?usp=drive_link",
     },
     {
       id: 40,
@@ -465,7 +465,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "M13",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1lUJbFG7MjvA-FO4hQoNM9AjxuaHa0Iae?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1e2-nukFd7807_5-d3dY1bddDKe_-axD1?usp=drive_link",
     },
     {
       id: 41,
@@ -477,7 +477,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "M13",
       remarks: "Scanned Files",
-      link: "http://example.com/file1",
+      link: "https://drive.google.com/drive/folders/1JXMRhxAdVoGB0NCyxHrz0MlV2KvLIuRh?usp=drive_link",
     },
 
     {
@@ -490,7 +490,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1PsHeAjZHjMEUKiTLFB_KKPEdeFWmnLST?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/13cO-nOgrEzx9AUUWJybEdDVhZedrxa6w?usp=drive_link",
     },
     {
       id: 43,
@@ -502,7 +502,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1iaAGHw1--Xrt7Q6gr-WIBM8_z1vM2s-r?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1q_xTB4Q6FCW0cyKhpW23HDoe5YgklceD?usp=drive_link",
     },
     {
       id: 44,
@@ -514,7 +514,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1pvmg8FUPN1IWK9xlbbWAFgvSEqwrQ8Xy?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1F7T_YaqY88N0f9N6WL9LMCnNLbCdHhRT?usp=drive_link",
     },
     {
       id: 45,
@@ -526,7 +526,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "A1",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1ldwK3KxEpQYP7iaQ-KaSBJUCzJ3wfDMg?usp=sharing",
+      link: "https://drive.google.com/drive/folders/1gNdaFDAKk7lh6embd-cZZFfqTeKxJpZC?usp=drive_link",
     },
     {
       id: 46,
@@ -538,7 +538,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/19t0z9r91OlTD1gOQnBn-oDbGyFD6loLR?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1jQ1UDqd-mj6H8wdVbtwqmP1KTRddjIvP?usp=drive_link",
     },
     {
       id: 47,
@@ -550,7 +550,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/19ThmNPqjk5m9n5zY3ohUF6DprrUoZ1S5?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/18ME23bsibfG0T-dtY65XP8jSHkqMv6LQ?usp=drive_link",
     },
     {
       id: 48,
@@ -562,7 +562,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1GaQKjd6jw4kS97GxLbLV-6P3fRDSBXpR?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1Na8T1Ly9XYAT_vUxoZct3fT3GrsBzsS-?usp=drive_link",
     },
     {
       id: 49,
@@ -574,7 +574,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "B2",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1OQvN0DtUyldsF15QScyhvqhMcYNvC-jp?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1DbA6q6-XLRKQGNNKkmtCNO7kmIQam3oG?usp=drive_link",
     },
     {
       id: 50,
@@ -586,7 +586,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "C3",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1sFR2ev_WO-s3cW7tFYTPYitA0kChsFO0?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1VyMDnDyw0Px3hdsfrvyNJoaaHpCq1OIv?usp=drive_link",
     },
     {
       id: 51,
@@ -598,7 +598,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "C3",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1qgPLN1TOESCVk997Tb807coqbZiJZ5NY?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1d17XpsRmafTQ5LPyp9viw0TULO2P594w?usp=drive_link",
     },
     {
       id: 52,
@@ -610,7 +610,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "D4",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1eANoVMqThDdTrkY2vO1za7SHyWk4s5PH?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/13-HO2pf-j8t3d9Kv2ZjXmLPK9N_bn7uW?usp=drive_link",
     },
     {
       id: 53,
@@ -622,7 +622,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "D4",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1oA9vxnIvS0q0QLd8UoqpeN6vEUXunmtI?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1m7UVPJcPy99QOI5cd7IpU8n_KA03tbPw?usp=drive_link",
     },
     {
       id: 54,
@@ -634,7 +634,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "E5",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1oCbssj0piukaesUVmh77gRraWDTkVgQK?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1NGNnkq-KNhP-sr0mGbVEfByDZVa28pxh?usp=drive_link",
     },
     {
       id: 55,
@@ -646,7 +646,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "F6",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/184NYfQiBoq2kASbAERPRi8OhKvQE5eP4?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/14HWjgGl6qWiyN5h2e4an7D1-K09cqEc8?usp=drive_link",
     },
     {
       id: 56,
@@ -658,7 +658,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "F6",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1812bgbXzkitZ-wdie7bBDp0MO5dirPcw?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1bormjLHXxOvpALNTcL_Hhzn0SONF9hFN?usp=drive_link",
     },
     {
       id: 57,
@@ -670,7 +670,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1WF3rOc_dCjx_s7MIjbyojoYvcyZbX0GI?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1krvv4xC6SSVjq-2tTXIYZAFtUd-R8xad?usp=drive_link",
     },
     {
       id: 58,
@@ -682,7 +682,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1kCBFsLtdd-744r4sltREJUD4o8woA-ms?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1JT5HesUISHWrCSw68FDRz5nm8qFel_UR?usp=drive_link",
     },
     {
       id: 59,
@@ -694,7 +694,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "G7",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1zv_2Lqt88xoEsdHw5pCtxYySaXBIgVzS?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/18cRIK6L3sak_jA__-bVcUshMPqzVXOR3?usp=drive_link",
     },
     {
       id: 60,
@@ -706,7 +706,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "H8",
       remarks: "Scanned Files",
-      link: "",
+      link: "https://drive.google.com/drive/folders/1mHQEqN1ukHBthUihAYsW3RYh2pMHjweT?usp=drive_link",
     },
     {
       id: 61,
@@ -718,7 +718,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "I9",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1PNdycS7rbiec3LgRoLzVdToF5F5Yy_C0?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1EGFsXKzjTZ6lskp8pDMY6YcHyKRJUaa1?usp=drive_link",
     },
     {
       id: 62,
@@ -730,7 +730,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "I9",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1kZxUVqCxLylVY6gFChrnd_PlsI99cLZK?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1ZekZq5YqqJI3cQ4kYRybOgeo8VbfOBrN?usp=drive_link",
     },
     {
       id: 63,
@@ -742,7 +742,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "J10",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1nEzNFAMS2nbGTzoEm2hcE49qfNnW0S0w?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1jl_WddPrw-yTZm8S1pkj6YBgUDPAt2oB?usp=drive_link",
     },
     {
       id: 64,
@@ -754,7 +754,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "K11",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1txfOmPKGVC-BQJ1hpj6cIJ5S1PXPrFcY?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1ap4orQ9TAyI0Ox0rqQhtmNX6pVskzLui?usp=drive_link",
     },
     {
       id: 65,
@@ -766,7 +766,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "K11",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/file/d/1p9AcYGdiFQP97rTgyokVhRyZpIVMjULC/view?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1HAZQF-jtCduXv-mvo0w7bUWq6NyB0KSc?usp=drive_link",
     },
     {
       id: 66,
@@ -778,7 +778,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "L12",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1oKQ0bYcje8k5bIg5LjdG89T2BLiUheNT?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1X-8LEUW9J6gqHuCPk5ffBpzd0-bwxgvd?usp=drive_link",
     },
     {
       id: 67,
@@ -790,7 +790,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "L12",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1ENu6BB9ydfgVzFn9Hy_ftnKxVJL2EtfU?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1Hjgu1nufr2lsQHwsBauAA_5rULgjPCjk?usp=drive_link",
     },
     {
       id: 68,
@@ -802,7 +802,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "L12",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1eCtEzEzb7sR0N6uH2E7ZjnYXlAX5IBXC?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1I-_KLYKyD_s_DUdBmizqMchgLMNNKVgZ?usp=drive_link",
     },
     {
       id: 69,
@@ -814,7 +814,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "M13",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1EBvfluUEgmFDmyhSNZzRJcXsO0QQdzSQ?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1X2E8tnas_6x3AlH8K-t6poJ26gwzc7Ap?usp=drive_link",
     },
     {
       id: 70,
@@ -826,7 +826,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "M13",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1qTwyMZnzO3a0_lmTpBpOZSOKcazPZz2h?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1DDr665gx_4w04dxCJltNVlLojcOwVta3?usp=drive_link",
     },
     {
       id: 71,
@@ -838,7 +838,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1kZYjQ6EU2T5Hh2jxv6HmAUwB8UUh5tQm?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1QffMVi1jvyVADS_Rx8dEqGsXYCETEeIV?usp=drive_link",
     },
     {
       id: 72,
@@ -850,7 +850,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1bmAFNBi3HnCW_QPYqng3JXVz8o_MAgfp?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1wesQ2IUzuob94bAQkawNIyOuKtDdgQrf?usp=drive_link",
     },
     {
       id: 73,
@@ -862,7 +862,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1GK_wwq0S81kGVmyGbqcXo-vmzH_o2Het?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1Sb2PWGtNpU02h8ooNCCRVXbOXhwmnuEu?usp=drive_link",
     },
     {
       id: 74,
@@ -874,7 +874,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1cWa2mSzLpFmlm4jR7zyFXjvvVcbl-gZ_?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1aymn9ujTlqfapKECrPrcRjwLNqfV-n7g?usp=drive_link",
     },
     {
       id: 75,
@@ -886,7 +886,7 @@ const GramPanchyat = [
       close: "-",
       rackNo: "N14",
       remarks: "Scanned Files",
-      link: "https://drive.google.com/drive/folders/1E0HYfIS7Obq3Au3ujRwBvV4_nmToQDDh?usp=drive_link",
+      link: "https://drive.google.com/drive/folders/1kyRwfYJitoQ1CAEPqEtYZCoVjkCdWnip?usp=drive_link",
     },
   ];
 
